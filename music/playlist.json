@@ -1,0 +1,7 @@
+{
+  "station": "",
+  "tracks": [
+    { "file": "race.mp3", "artist": "MintoDog", "title": "Cool Highway (Remake)" }
+  ],
+  "final": "race_final.mp3"
+}
